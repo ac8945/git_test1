@@ -42,7 +42,7 @@ include ("header.php");
 
 <!-- SECTION -->
 <div class="section-headline-container">
-	<h2 class="section-headline">Professional Hair Products</h2>
+	<h2 class="section-headline">Professional Salon Products</h2>
 </div>
 
 <div class="home-content-container">
