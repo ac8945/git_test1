@@ -3,7 +3,7 @@
 $meta_description = "Founded by Robert Piskulak - a European trained masonry professional with 25 yrs of experience. We specialize in stonework installation and restoration. ";
 
 //meta tag keywords
-$meta_keywords = "Art Stone, Robert Piskulak";
+$meta_keywords = "Art Stone, Masonry, Tile Work";
 
 // Page Title
 $page_title = "Masonry - Stone and Marble Work - Restoration - Art Stone";
