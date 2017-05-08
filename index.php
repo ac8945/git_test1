@@ -59,7 +59,10 @@ include ("header.php");
 	</div>
 </div>
 
-<!-- SECTION -->
+<!-- SECTION Cosmetics -->
+
+<h1>Login Here</h1>
+
 <div class="section-headline-container">
 	<h2 class="section-headline">Cosmetics</h2>
 </div>
