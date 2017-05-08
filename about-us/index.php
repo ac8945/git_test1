@@ -38,7 +38,7 @@ include ("../header.php");
 		</div>
 
 		<div class="about-us-photos">
-			<img src="../images/robert-james.jpg" alt="Robert James of Art Stone">
+			<img src="../images/exterior-store.jpg" alt="Robert James of Art Stone">
 		</div>
 	</div>
 </div>
